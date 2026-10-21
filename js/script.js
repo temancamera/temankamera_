@@ -76,7 +76,7 @@ const rentalProducts = [];
 const extraProducts = [
   { id: 'paper-refill-putih', name: 'Paper Refill Fuji Polaroid', category: 'accessories', note: '1 pack', price24: 170000, image: 'paper-refill-fuji-polaroid-1-pack-170k.jpg', visual: 'PAPER' },
   { id: 'instax-bundle', name: 'Bundling Kamera + Paper Polaroid', category: 'accessories', note: '1 pack', price24: 210000, image: 'bundling-kamera-paper-polaroid-1-pack-210k.jpeg', visual: 'BUNDLE' },
-  { id: 'jasa-pindahan-foto', name: 'Jasa Pindahan Foto', category: 'accessories', price24: 15000, image: 'jasa-pindahan-foto-15k.PNG' },
+  { id: 'jasa-pindahan-foto', name: 'Jasa Pindahan Foto', category: 'accessories', price24: 25000, image: 'jasa-pindahan-foto-15k.PNG' },
   { id: 'type-c-lighting', name: 'Type-C Lighting', category: 'accessories', price24: 20000, image: 'type-c-lighting-1-20k.JPG', visual: 'LIGHT' }
 ];
 
